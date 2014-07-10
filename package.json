@@ -1,6 +1,6 @@
 {
   "name": "flickr-upload-via-email",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Email monitoring and auto-uploading image attachments to Flickr",
   "main": "index.js",
   "scripts": {
