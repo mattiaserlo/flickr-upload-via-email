@@ -56,7 +56,7 @@ var fs = require('fs');
  * // any attached images will be automatically
  * // uploaded to Flickr.
  * 
- * var listener = require('./index.js');
+ * var listener = require('flickr-upload-via-email');
  * 
  * var arg = {
  *   emailUsername: 'youremailaddress@gmail.com',
